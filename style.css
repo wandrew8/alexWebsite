@@ -110,3 +110,14 @@ ul {}
 .videoContainer {
     text-align: center;
 }
+
+.about {
+    font-size: 25px;
+}
+
+.alex {
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+    object-fit: cover;
+}
